@@ -1,5 +1,6 @@
-[## Amazon Reviews Dataset - Sentiment analysis](https://github.com/romiebanerjee/Portfolio-/blob/master/plots.ipynb)
+[Amazon Reviews Dataset - Sentiment analysis](https://github.com/romiebanerjee/Portfolio-/blob/master/plots.ipynb)
+
 Data source: http://jmcauley.ucsd.edu/data/amazon/
 
-## Breast Cancer Dataset - Toplogical data analysis
+[Breast Cancer Dataset - Toplogical data analysis](https://github.com/romiebanerjee/Portfolio-/blob/master/Breast_Cancer_Dataset.ipynb)
 
