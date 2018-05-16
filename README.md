@@ -1,9 +1,12 @@
 # Data Science Portfolio
 
-* [**Breast Cancer Dataset - Topological Data Analysis**](https://github.com/romiebanerjee/Portfolio-/blob/master/Breast_Cancer_TDA.ipynb)
+1 **Topological Data Analysis**
+  
+  * [Breast Cancer Dataset](https://github.com/romiebanerjee/Portfolio-/blob/master/Breast_Cancer_TDA.ipynb)
 
-* [**Wine Quality Dataset - Topological Data Analysis**](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Wine_quality_red.ipynb)
+  * [Wine Quality Dataset](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Wine_quality_red.ipynb)
+  * [Natural Language Processing via TDA](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/NLP_TDA.ipynb)
 
-* [**Naive Bayes Spam Classifier**](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Spam_classifier.ipynb)
+ 2 **Machine Learning** 
+  * [Naive Bayes Spam Classifier](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Spam_classifier.ipynb)
 
-* [**Natural Language Processing using TDA**](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/NLP_TDA.ipynb)
