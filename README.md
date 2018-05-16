@@ -1,4 +1,8 @@
 # Data Science Portfolio
+0. **TDA tools**
+  * [Mapper](https://github.com/romiebanerjee/TDAmapper)
+  
+  * [K-NERVE](https://github.com/romiebanerjee/k-nerve)
 
 1. **Topological Data Analysis**
   
@@ -13,3 +17,4 @@
 
   * [ML decision boundary examples](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/ML_decision_boundary.ipynb)
   
+  * [Visualize high-dimensional decision boundaries in 2D]()
