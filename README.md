@@ -19,4 +19,4 @@
   
   * [Visualize high-dimensional decision boundaries in 2D](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Voronoi_tesellation.ipynb)
   
-  * [Time Series Analysis and Forecasting] (https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/tsa_forecasting_models.ipynb)
+  * [Time Series Analysis and Forecasting](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/tsa_forecasting_models.ipynb)
