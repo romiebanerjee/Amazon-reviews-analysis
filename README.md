@@ -1,17 +1,14 @@
 # Data Science Portfolio
-0. **TDA tools**
+
   * [Mapper](https://github.com/romiebanerjee/TDAmapper)
   
-  * [K-NERVE](https://github.com/romiebanerjee/k-nerve)
-
-1. **Topological Data Analysis**
+  * [K-NERVE (tool for TDA)](https://github.com/romiebanerjee/k-nerve)
   
-  * [Breast Cancer Dataset](https://github.com/romiebanerjee/Portfolio-/blob/master/Breast_Cancer_TDA.ipynb)
+  * [Breast Cancer Dataset TDA](https://github.com/romiebanerjee/Portfolio-/blob/master/Breast_Cancer_TDA.ipynb)
 
-  * [Wine Quality Dataset](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Wine_quality_red.ipynb)
+  * [Wine Quality Dataset TDA](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Wine_quality_red.ipynb)
+  
   * [Natural Language Processing via TDA](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/NLP_TDA.ipynb)
-
-2. **Machine Learning** 
 
   * [Naive Bayes Spam Classifier](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Spam_classifier.ipynb)
 
@@ -23,6 +20,5 @@
   
   * [Taxi Routes EDA and waiting time prediction](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Quito_taxi_data.ipynb)
   
- 3. **EDA**
   * [Sentiment Analysis](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/ENBD_facebook_sentiment_analysis.ipynb)
    
