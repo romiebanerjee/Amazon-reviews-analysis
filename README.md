@@ -22,3 +22,7 @@
   * [Time Series Analysis and Forecasting](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/tsa_forecasting_models.ipynb)
   
   * [Taxi Routes EDA and waiting time prediction](https://github.com/romiebanerjee/Data-Science-Portfolio/blob/master/Quito_taxi_data.ipynb)
+  
+ 3. **EDA**
+  * [Sentiment Analysis](https://github.com/romiebanerjee/DataSciencePortfolio/blob/master/ENBD_facebook_sentiment_analysis.ipynb)
+   
